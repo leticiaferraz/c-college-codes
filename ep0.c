@@ -4,14 +4,14 @@
 https://panda.ime.usp.br/panda/static/data/codeblocks/codeblocksintro.html
 */
 
-/**************************************************************************/
-/**                                                                      **/
-/**   Letícia Pacheco Ferraz de Arruda e Oliveira    Número USP 11847666 **/
-/**   Exercício-Programa EP0                                             **/
-/**   Professor: Yoshiharu Kohayakawa                                    **/
-/**   Turma: 3                                                           **/
-/**                                                                      **/
-/**************************************************************************/
+/***********************************************************************************************/
+/**   ExercÃ­cio-Programa EP0                                                                  **/
+/**   Professor: Yoshiharu Kohayakawa                                                         **/
+/**   Os numeros de Tetranacci T0, T1, T2, ... sao defidos da seguinte forma: T0 = 0, T1 = 0, **/
+/** T2 = 0, T3 = 1 e, para N > 3, temos TN = T_N-1 + T_N-2 + T_N-3 + T_N-4                    **/
+/** Essa sequencia de numeros comeca portanto assim: 0, 0, 0, 1, 1, 2, 4, 8, 15, 29, ...      **/ 
+/** Seu EP0 deve ser um programa em C que l^e um inteiro N  0 e imprime TN.                  **/                                                                 **/
+/**********************************************************************************************/
 
 int main () { /*Tretranacci*/
 
